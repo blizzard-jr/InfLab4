@@ -1,0 +1,26 @@
+
+
+Shedule/-Friday/-lesson1/type,Shedule/-Friday/-lesson1/name,Shedule/-Friday/-lesson1/teacher,Shedule/-Friday/-lesson1/audience,Shedule/-Friday/-lesson1/adress,Shedule/-Friday/-lesson1/time,Shedule/-Friday/-lesson2/type,Shedule/-Friday/-lesson2/name,Shedule/-Friday/-lesson2/teacher,Shedule/-Friday/-lesson2/audience,Shedule/-Friday/-lesson2/adress,Shedule/-Friday/-lesson2/time
+Practise,Lineynaia algebra,Rvanova Alla,2426,"Kronversciy pr., d.49, lit.A",11:40 - 13:10,Lecture,Lineynaia algebra,Popov Igor,1404,"Kronverskiy pr., d.49, lit.A",13:30 - 15:00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,30 @@
+{
+  "Shedule" : [
+	{
+	  "-Friday" : [
+		{
+		  "-lesson1" : [
+			{
+			  "type" : "Practise",
+			  "name" : "Lineynaia algebra",
+			  "teacher" : "Rvanova Alla",
+			  "audience" : "2426",
+			  "adress" : "Kronversciy pr., d.49, lit.A",
+			  "time" : "11:40 - 13:10"
+			}
+		  ],
+		  "-lesson2" : [
+			{
+			  "type" : "Lecture",
+			  "name" : "Lineynaia algebra",
+			  "teacher" : "Popov Igor",
+			  "audience" : "1404",
+			  "adress" : "Kronverskiy pr., d.49, lit.A",
+			  "time" : "13:30 - 15:00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
